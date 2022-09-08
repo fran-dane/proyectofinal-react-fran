@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Proyecto Final React
+
+# Francisco Danelon 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
